@@ -1,6 +1,6 @@
-import { CGFobject } from "../lib/CGF.js";
+import { MyCGFobject } from "./MyCGFobject.js";
 
-export class MyParallelogram extends CGFobject
+export class MyParallelogram extends MyCGFobject
 {
   constructor(scene)
   {

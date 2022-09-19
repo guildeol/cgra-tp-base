@@ -5,7 +5,6 @@ export class MyTriangle extends MyCGFobject
   constructor(scene)
   {
     super(scene);
-
     this.initBuffers();
   }
 
